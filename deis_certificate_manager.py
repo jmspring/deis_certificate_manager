@@ -1,8 +1,3 @@
-"""
-Given a message in a queue, calculates the diff of two images.  If
-the difference is large enough, issue a notification.
-"""
-
 import json
 import requests
 import sys
